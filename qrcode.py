@@ -1,5 +1,5 @@
 # Create QRCode image
-# Busyman.Inc
+# By Busyman.Inc
 
 import pyqrcode
 
