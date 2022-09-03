@@ -1,5 +1,5 @@
 # Pdf transform to docx
-# Busyman.Inc
+# by Busyman.Inc
 
 import os
 from pdf2docx import Converter
