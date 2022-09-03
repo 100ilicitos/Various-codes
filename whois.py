@@ -1,6 +1,9 @@
 # Search whois
 # By Busyman.Inc
 
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 # Debian or Ubuntu : sudo apt install whois
 
 import whois 
