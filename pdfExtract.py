@@ -1,6 +1,9 @@
 # Extract text from pdf
 # By Busyman.InC
 
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 import PyPDF2
 
 pdf = open("PT.pdf", "rb")
