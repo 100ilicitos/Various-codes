@@ -1,6 +1,9 @@
 # Pdf transform to docx
 # by Busyman.Inc
 
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 import os
 from pdf2docx import Converter
 pdf = 'PT.pdf'
