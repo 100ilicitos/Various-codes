@@ -1,4 +1,4 @@
-# Convert Video filar to gif
+# Convert Video file to gif
 # by Busyman.Inc
 
 from moviepy.editor import VideoFileClip
