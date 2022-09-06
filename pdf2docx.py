@@ -5,7 +5,7 @@
 # -*- coding: utf-8 -*-
 
 from pdf2docx import Converter
-pdf = 'cv_PT.pdf'
+pdf = 'PT.pdf'
 docx = 'PT.docx'
 cv = Converter(pdf)
 cv.convert(docx)
